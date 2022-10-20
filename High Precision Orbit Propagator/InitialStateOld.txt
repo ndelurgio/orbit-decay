@@ -1,0 +1,25 @@
+2002/04/24-21:55:28.000
++7144843.808
++0217687.110
+-0506463.296
++0562.650611
+-1616.516697
++7358.157263
+satellite's effective area for solar radiation: 88.4
+satellite's effective area for drag: 55.64
+satellite's mass: 8000.0
+Cr: 1.0
+Cd: 2.7
+
+2017/07/31-19:54:47.000
++4614140.83569131
+-4737886.33445725
+-1148673.28479314
+-822.820914680659
++1055.41660258052
++7589.38944309775
+satellite's effective area for solar radiation: 1.0
+satellite's effective area for drag: 1.3968
+satellite's mass: 432.0
+Cr: 1.0
+Cd: 2.7
